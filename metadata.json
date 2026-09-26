@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Navigator",
+  "description": "Adaptive AI-powered career guidance platform with Java-architected weighted recommendation engine, personalized roadmaps, and Gemini career assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
